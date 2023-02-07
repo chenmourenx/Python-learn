@@ -1,0 +1,175 @@
+Name: timqian /
+
+      chinese-independent-blogs
+URL: https://github.com/timqian/chinese-independent-blogs
+Description: 中文独立博客列表
+Stars: 13565
+
+Name: zhayujie /
+
+      chatgpt-on-wechat
+URL: https://github.com/zhayujie/chatgpt-on-wechat
+Description: 使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.
+Stars: 466
+
+Name: PlexPt /
+
+      awesome-chatgpt-prompts-zh
+URL: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+Description: ChatGPT 中文调教指南。怎么让它听你的话。
+Stars: 3086
+
+Name: wangrongding /
+
+      wechat-bot
+URL: https://github.com/wangrongding/wechat-bot
+Description: 🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+Stars: 1662
+
+Name: coolsnowwolf /
+
+      lede
+URL: https://github.com/coolsnowwolf/lede
+Description: Lean's LEDE source
+Stars: 24755
+
+Name: immersive-translate /
+
+      immersive-translate
+URL: https://github.com/immersive-translate/immersive-translate
+Description: Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
+Stars: 1947
+
+Name: whyour /
+
+      qinglong
+URL: https://github.com/whyour/qinglong
+Description: 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
+Stars: 8914
+
+Name: innnky /
+
+      so-vits-svc
+URL: https://github.com/innnky/so-vits-svc
+Description: 基于vits与softvc的歌声音色转换模型
+Stars: 1238
+
+Name: AIGCT /
+
+      EASYChatGPT
+URL: https://github.com/AIGCT/EASYChatGPT
+Description: This is an application project of 'chatgpt',only applicable to desktop environment.
+Stars: 120
+
+Name: imDazui /
+
+      Tvlist-awesome-m3u-m3u8
+URL: https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+Description: 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+Stars: 17226
+
+Name: houko /
+
+      wechatgpt
+URL: https://github.com/houko/wechatgpt
+Description: wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
+Stars: 224
+
+Name: PlexPt /
+
+      chatgpt-java
+URL: https://github.com/PlexPt/chatgpt-java
+Description: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.
+Stars: 463
+
+Name: lss233 /
+
+      chatgpt-mirai-qq-bot
+URL: https://github.com/lss233/chatgpt-mirai-qq-bot
+Description: OpenAI ChatGPT for Mirai QQ Bot，QQ 聊天机器人！ 每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署，反向代理加速 (部分代码由 ChatGPT 生成）
+Stars: 324
+
+Name: stupidloud /
+
+      nanopi-openwrt
+URL: https://github.com/stupidloud/nanopi-openwrt
+Description: Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
+Stars: 4342
+
+Name: pt-plugins /
+
+      PT-Plugin-Plus
+URL: https://github.com/pt-plugins/PT-Plugin-Plus
+Description: PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+Stars: 4496
+
+Name: XIU2 /
+
+      CloudflareSpeedTest
+URL: https://github.com/XIU2/CloudflareSpeedTest
+Description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
+Stars: 7946
+
+Name: ender-zhao /
+
+      Clash-for-Windows_Chinese
+URL: https://github.com/ender-zhao/Clash-for-Windows_Chinese
+Description: clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+Stars: 5272
+
+Name: dundunnp /
+
+      auto_xuexiqiangguo
+URL: https://github.com/dundunnp/auto_xuexiqiangguo
+Description: 学习强国 每日拿满61分！免root 四人赛双人对战秒答 自动化脚本
+Stars: 2234
+
+Name: xiaojieonly /
+
+      Ehviewer_CN_SXJ
+URL: https://github.com/xiaojieonly/Ehviewer_CN_SXJ
+Description: ehviewer，用爱发电，快乐前行
+Stars: 5424
+
+Name: Semporia /
+
+      TikTok-Unlock
+URL: https://github.com/Semporia/TikTok-Unlock
+Description: TikTok免拔卡解锁最新支持 iPhone （iOS 16.3） 、TikTok（V27.9.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+Stars: 6250
+
+Name: yaocccc /
+
+      dwm
+URL: https://github.com/yaocccc/dwm
+Description: 
+Stars: 126
+
+Name: paimonhub /
+
+      Paimonnode
+URL: https://github.com/paimonhub/Paimonnode
+Description: Free subcribe for everyone
+Stars: 701
+
+Name: spiritLHLS /
+
+      ecs
+URL: https://github.com/spiritLHLS/ecs
+Description: VPS融合怪测评脚本(主体已完善，历史遗留问题解决时间未知)(VPS fusion monster evaluation script)
+Stars: 334
+
+Name: xifangczy /
+
+      cat-catch
+URL: https://github.com/xifangczy/cat-catch
+Description: 猫抓 chrome资源嗅探扩展
+Stars: 2503
+
+Name: jynew /
+
+      jynew
+URL: https://github.com/jynew/jynew
+Description: JinYongLegend-like RPG Game Framework with full Modding support
+Stars: 6384
+

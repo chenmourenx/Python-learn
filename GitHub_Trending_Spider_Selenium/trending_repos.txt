@@ -1,0 +1,66 @@
+Name: /acheong08/ChatGPT
+URL: https://github.com/acheong08/ChatGPT
+Description: Reverse engineered ChatGPT API
+Language: Python
+Stars: 13,530
+
+Name: /Zero6992/chatGPT-discord-bot
+URL: https://github.com/Zero6992/chatGPT-discord-bot
+Description: Integrate ChatGPT into your own discord bot
+Language: Python
+Stars: 833
+
+Name: /techiescamp/kubernetes-learning-path
+URL: https://github.com/techiescamp/kubernetes-learning-path
+Description: A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
+Language: 
+Stars: 3,470
+
+Name: /PlexPt/awesome-chatgpt-prompts-zh
+URL: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+Description: ChatGPT 中文调教指南。怎么让它听你的话。
+Language: 
+Stars: 3,516
+
+Name: /LAION-AI/Open-Assistant
+URL: https://github.com/LAION-AI/Open-Assistant
+Description: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+Language: Python
+Stars: 12,549
+
+Name: /AutumnWhj/ChatGPT-wechat-bot
+URL: https://github.com/AutumnWhj/ChatGPT-wechat-bot
+Description: ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
+Language: TypeScript
+Stars: 1,758
+
+Name: /zhayujie/chatgpt-on-wechat
+URL: https://github.com/zhayujie/chatgpt-on-wechat
+Description: 使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.
+Language: Python
+Stars: 699
+
+Name: /f/awesome-chatgpt-prompts
+URL: https://github.com/f/awesome-chatgpt-prompts
+Description: This repo includes ChatGPT prompt curation to use ChatGPT better.
+Language: HTML
+Stars: 21,656
+
+Name: /lencx/ChatGPT
+URL: https://github.com/lencx/ChatGPT
+Description: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+Language: Rust
+Stars: 10,203
+
+Name: /openai/openai-cookbook
+URL: https://github.com/openai/openai-cookbook
+Description: Examples and guides for using the OpenAI API
+Language: Jupyter Notebook
+Stars: 11,422
+
+Name: /sindresorhus/awesome
+URL: https://github.com/sindresorhus/awesome
+Description: 😎 Awesome lists about all kinds of interesting topics
+Language: 
+Stars: 237,629
+
